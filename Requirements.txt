@@ -1,0 +1,48 @@
+Last login: Wed Dec  4 14:24:06 on ttys000
+/dev/fd/12:18: command not found: compdef
+(base) nidhi@Nidhis-MacBook-Pro ~ % nano          
+(base) nidhi@Nidhis-MacBook-Pro ~ % nano
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                       New Buffer                       Modified  
+
+
+# If using Python for back-end (Flask, Django, etc.)
+Flask==2.1.0
+Django==4.0.0
+
+# For file handling and session management in Python back-end
+python-dotenv==0.19.2
+
+# For web scraping (if applicable in some projects)
+BeautifulSoup4==4.11.1
+
+# For working with JSON data (if applicable)
+requests==2.26.0
+
+# If using JavaScript libraries or frameworks (NPM dependencies)
+# Make sure to add necessary dependencies in package.json (for example, React, $
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
